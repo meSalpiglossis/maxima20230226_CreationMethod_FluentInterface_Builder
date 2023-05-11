@@ -1,6 +1,6 @@
 package creationmethod;
 
-public class CaseUseDemo {
+public class CMUseDemo {
     public static void main(String[] args) {
         Case specialCase = Case.createCaseForHealthyBaby(
                             "John",
